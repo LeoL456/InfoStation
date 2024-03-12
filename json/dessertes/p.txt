@@ -1,0 +1,10 @@
+Matériel utilisé	B 82500
+(13 éléments au 11/03/2023)
+Z 20500
+(20 éléments au 22/01/2023)
+Z 50000
+(64 éléments au 26/11/2022,
+matériel en exploitation commune avec la ligne E)
+U 53600
+(15 éléments au 10/03/2022,
+matériel en exploitation commune avec la ligne T11 Express)
